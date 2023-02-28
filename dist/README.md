@@ -1,11 +1,11 @@
-# s 
-  ![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0,Boost1.0,MPL2.0,BSD2,BSD3,none-blue.svg)
+# README-GEN 
+  ![Github license](https://img.shields.io/badge/license--blue.svg)
   ## Description
-  ad
+  This will support individuals with creating a high quality README file
   ## Deployed Application URL
-  asd
+  https://github.com/STrojann/README-GENERATOR
   ## Screenshot
-  ![alt-text](asd)
+  ![alt-text](..)
   ## Table of Contents
   * [Features](#features)
   * [Languages & Dependencies](#languagesanddependencies)
@@ -14,15 +14,15 @@
   * [Testing](#testing)
   * [Questions](#questions)
   ## Features
-  asd
+  Used JS and node the project is responsive
   ## Languages & Dependencies
-  asd
+  ..
   ## How to Use This Application:
-  d
+  JS, NODE 
   ## Contributors
-  dfgdg
+  ..
   ## Testing
-  fdgdfgdfg
+  write node index.js in terminal to access the generator
   ## Questions
-  Please send your questions [here](mailto:ac?subject=[GitHub]%20Dev%20Connect) or visit [github/cs](https://github.com/cs).
+  Please send your questions [here](mailto:trojan120101@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/STrojann](https://github.com/STrojann).
   
